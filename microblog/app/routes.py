@@ -1,6 +1,7 @@
 from flask import render_template
-from app import app
+from app import app,db
 from app.forms import LoginForm
+from app.models import User, Post
 
 @app.route('/')
 @app.route('/index')
