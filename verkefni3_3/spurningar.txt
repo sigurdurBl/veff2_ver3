@@ -1,0 +1,39 @@
+1:Hver er munurinn á API og vefþjónustu (e. web services or Web API)? Hvað er sameiginlegt með þeim?
+
+web servers er hugbúnaðarkerfi sem ætlað er að styðja samhæfð samskipti milli tölvu milli netkerfis 
+
+og api er sett af skilgreiningum undirritunar, siðareglur og verkfæri til að byggja upp hugbúnað. 
+Almennt er það sett af skýrt skilgreindum aðferðum við samskipti milli ýmissa hugbúnaðarhluta.
+2:
+(a)
+pizza:{
+   "CrustType":'orginal',
+   "toppings": ['Cheese','pepperoni','garlic'],
+   "status":'cooking',
+   "customer":['name','phone']
+}
+(b)
+<pizza_order>
+<CrustType>orginal>/CrustType>
+<toppings>Cheese, pepperoni, garlic</toppings>
+<status>cookin</status>
+<customer>name , phone</customer>
+
+3: Útskýrðu stuttlega öll lögin í Open Systems Interconncetion Model (OSI Model)
+osi er það sem einkennir og staðlar samskiptatækni fjarskipta eða tölvukerfis án tillits til undirliggjandi innri uppbyggingar og tækni
+
+
+4: hvað er restful API
+restfil API er það sem veitir samhæfni tölvukerfa á Netinu.
+
+5:
+Http Request message
+HTTP/1.1 200 OK
+date: sun,08 feb xxxx 01:11:12 GMT
+server:apache/1.3.29 (win32)
+last-modified:sat, 07 feb xxxx
+etag: "0-23-4024c3a5"
+accept-ranges: bytes
+content-length:35
+connection: close
+contet-type: text/html
