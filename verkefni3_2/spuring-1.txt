@@ -1,0 +1,1 @@
+ORM er forritunartækni til að umbreyta gögnum á milli ósamrýmanlegra tegundakerfa sem nota hlutbundin forritunarmál
