@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mosfellsbær",
+               "short_name" : "Mosfellsbær",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mosfellsbær, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.18789219999999,
+                  "lng" : -21.6402827
+               },
+               "southwest" : {
+                  "lat" : 64.1496915,
+                  "lng" : -21.7450707
+               }
+            },
+            "location" : {
+               "lat" : 64.1671645,
+               "lng" : -21.685376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.18789219999999,
+                  "lng" : -21.6402827
+               },
+               "southwest" : {
+                  "lat" : 64.1496915,
+                  "lng" : -21.7450707
+               }
+            }
+         },
+         "place_id" : "ChIJWwbeAMF21kgRZdVxjZCSXlc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
