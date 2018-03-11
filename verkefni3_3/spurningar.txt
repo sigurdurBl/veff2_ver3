@@ -18,6 +18,7 @@ pizza:{
 <toppings>Cheese, pepperoni, garlic</toppings>
 <status>cookin</status>
 <customer>name , phone</customer>
+</pizza_order>
 
 3: Útskýrðu stuttlega öll lögin í Open Systems Interconncetion Model (OSI Model)
 osi er það sem einkennir og staðlar samskiptatækni fjarskipta eða tölvukerfis án tillits til undirliggjandi innri uppbyggingar og tækni
